@@ -1,6 +1,6 @@
 # Web Space Uganda
 
-A modern, minimalist website for a fictional Ugandan web development agency. This project showcases a complete multi-page website built with HTML, CSS, and JavaScript.
+A modern, minimalist website for a fictional Ugandan web development agency for our web development final paper. This project showcases a complete multi-page website built with HTML, CSS, and JavaScript.
 
 ## Project Overview
 
@@ -168,3 +168,12 @@ group_D_final_paper/
 - Optimized font sizes
 - Stacked layouts for better readability
 - Simplified navigation
+
+## Team Members
+
+- **Kato Elijah - 2025-B071-13941**
+- **Kire Barbara - 2025-B221-12309**
+- **Nansamba Joan - 2025-B201-13428**
+- **Lugoloobi Joram - 2025-B071-13140**
+- **Olet Samuel - 2025-D301-13367**
+- **Tumusiime Hansen Andrew - 2023-B291-10756**
